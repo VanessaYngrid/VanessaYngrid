@@ -1,1 +1,5 @@
-I am a software development student
+I am a software development student proficient in web technologies, including HTML, CSS, JavaScript, and React, as well as mobile application development using Java in Android Studio. I have experience in server-side development with Node.js and database design with SQL Server. Additionally, I have a strong foundation in object-oriented programming with Java.
+
+I have 4 years of experience in a financial institution as a financial analyst and process engineer, with a focus on process improvement through the use of agile methodologies such as Lean, Design Thinking, and OKR based on the Scrum framework as the working model, mapping end-to-end process flows using tools such as Bizagi and Drawi.io, creating metrics, applying agile Methodology, and using project collaboration tools such as Miro and Jira.
+
+My previous bachelor's degree in industrial engineering and work experience were essential in developing my problem-solving and interpersonal skills through my analytical thinking, communication, and collaboration skills, as well as my ability to adapt to different challenges and become a versatile professional.
