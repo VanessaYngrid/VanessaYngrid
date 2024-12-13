@@ -1,5 +1,43 @@
-I am a software developer proficient in web technologies, including HTML, CSS, JavaScript, TypeScript, React.js, Angular, Next.js, Tailwind CSS, and database design with MongoDB, Firebase and SQL server. I also have experience in mobile application development using Java in Android Studio, as well as a foundation in object-oriented programming with Java.
+# 👨‍💻 Hi! I'm a Full-Stack Developer with a Passion for Agile and Process Optimization 🚀
 
-I have 4 years of experience in a financial institution as a financial analyst and process engineer, with a focus on process improvement through the use of agile methodologies such as Lean, Design Thinking, and OKR based on the Scrum framework as the working model, mapping end-to-end process flows using tools such as Bizagi and Drawi.io, creating metrics, applying agile Methodology, and using project collaboration tools such as Miro and Jira.
+I specialize in **web technologies** 🌐 (HTML, CSS, JavaScript, TypeScript, React.js, Angular, Next.js, Tailwind CSS) and **database design** 🗄️ (MongoDB, Firebase, SQL Server). I also have experience in **mobile app development** 📱 using **Java** in **Android Studio**, and a solid foundation in **object-oriented programming (OOP)** 💻. My goal? To create **efficient, scalable, and user-friendly solutions** that make an impact.
 
-My previous bachelor's degree in industrial engineering and work experience were essential in developing my problem-solving and interpersonal skills through my analytical thinking, communication, and collaboration skills, as well as my ability to adapt to different challenges and become a versatile professional.
+Before diving into software development, I worked for **4 years in the financial sector** 💰 as a **Financial Analyst and Process Engineer**. Here, I developed a strong understanding of **process optimization** 🔧 and became passionate about **Agile methodologies** 🔄, especially **Scrum**, **Lean**, and **Design Thinking**. I collaborated with teams across functions to **map end-to-end processes**, improve operational workflows, and drive **data-driven decision-making** 📊. Tools like **Bizagi** and **Draw.io** were key to visualizing process improvements, while **Jira** and **Miro** helped manage projects efficiently.
+
+With a background in **Industrial Engineering** 🛠️, I've built strong **analytical**, **communication**, and **collaboration skills**. I’m always eager to learn 📚, adapt, and bring my **technical expertise** and **business insights** to solve challenges in creative ways. 
+
+Let’s connect and collaborate! 💬
+
+---
+
+### 🛠️ **Skills** 
+
+#### **Web Development** 🌐
+- **Frontend**: HTML, CSS, JavaScript, TypeScript, React.js, Angular, Tailwind CSS
+- **Backend**: Next.js, Node.js
+- **API Integration**: RESTful APIs, Third-party API Integration
+- **Version Control**: Git, Bitbucket, GitHub
+
+#### **Mobile Development** 📱
+- **Languages**: Java (Android Studio)
+- **Frameworks**: Android SDK
+
+#### **Database Design** 🗄️
+- MongoDB, Firebase, SQL Server
+- Data Modeling, SQL Queries
+
+#### **Agile & Process Optimization** 🔄
+- Scrum, Lean, Design Thinking
+- **Project Management Tools**: Jira, Miro
+- **Process Mapping**: Bizagi, Draw.io
+
+#### **Other Skills** 💡
+- **Object-Oriented Programming (OOP)**
+- **Analytical Skills**: Process Optimization, Workflow Improvement
+- **Collaboration**: Cross-functional Teams, Communication
+
+#### **Languages** 🌍
+- **English**: Advanced (C1)
+- **French**: Advanced (B2)
+- **Spanish**: Native
+- **Portuguese**: Fluent
