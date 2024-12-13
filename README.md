@@ -1,4 +1,4 @@
-# 👨‍💻 Hi! I'm a Full-Stack Developer with a Passion for Agile and Process Optimization 🚀
+# 👨‍💻 Hi! I’m a Full-Stack Developer with a Focus on Front-End, Passionate about Agile and Process Optimization 🚀
 
 I specialize in **web technologies** 🌐 (HTML, CSS, JavaScript, TypeScript, React.js, Angular, Next.js, Tailwind CSS) and **database design** 🗄️ (MongoDB, Firebase, SQL Server). I also have experience in **mobile app development** 📱 using **Java** in **Android Studio**, and a solid foundation in **object-oriented programming (OOP)** 💻. My goal? To create **efficient, scalable, and user-friendly solutions** that make an impact and **address customer needs** 💡.
 
