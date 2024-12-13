@@ -13,8 +13,8 @@ Let’s connect and collaborate! 💬
 ### 🛠️ **Skills** 
 
 #### **Web Development** 🌐
-- **Frontend**: HTML, CSS, JavaScript, TypeScript, React.js, Angular, Next.js, Tailwind CSS
-- **Backend**: Node.js, Express.js
+- **Frontend**: HTML, CSS, JavaScript, TypeScript, React.js, Angular, Tailwind CSS
+- **Backend**: Next.js, Node.js
 - **API Integration**: RESTful APIs, Third-party API Integration
 - **Version Control**: Git, Bitbucket, GitHub
 
