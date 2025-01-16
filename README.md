@@ -31,6 +31,10 @@ Let’s connect and collaborate! 💬
 - **Project Management Tools**: Jira, Miro
 - **Process Mapping**: BPMN, Bizagi, Draw.io
 
+#### **Certifications** 🔄
+- Professional Scrum Master Certification (PSM1)
+- OKR Certified Professional (OKRCP).
+
 #### **Other Skills** 💡
 - **Object-Oriented Programming (OOP)**
 - **Analytical Skills**: Process Optimization, Workflow Improvement
